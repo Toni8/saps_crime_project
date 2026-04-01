@@ -1,0 +1,17 @@
+{
+  "name": "SAPS Crime Dashboard",
+  "dataColors": ["#DC143C","#FF7F00","#00CED1","#00C853","#FFD700","#7B68EE","#FF69B4","#20B2AA"],
+  "background": "#001F3F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#DC143C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 12}],
+        "fontColor": [{"value": {"solid": {"color": "#FFFFFF"}}}],
+        "background": [{"value": {"solid": {"color": "#001F3F"}}}]
+      }
+    }
+  }
+}
